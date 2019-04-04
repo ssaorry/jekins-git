@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jekins-git:war">
+    <output-path>$PROJECT_DIR$/../jekins-git/target</output-path>
+    <root id="archive" name="jekins-git-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jekins-git:war exploded" />
+    </root>
+  </artifact>
+</component>
